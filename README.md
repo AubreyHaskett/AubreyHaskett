@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am a software developer and designer with a passion for creating intuitive features with innovative code. I primarily code Android, but have experience with iOS and backend development too. My prior experience in customer research, data, and business strategy allows me to collaborate on potential features, develop them thoughtfully, and measure their success.
+# 💫 Developer @ GameChanger 💫
 
 
 # 💻 Tech Stack:
