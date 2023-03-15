@@ -1,4 +1,4 @@
-# 💫 Developer @ GameChanger 💫
+💫 Developer @ GameChanger 💫
 
 
 # 💻 Tech Stack:
